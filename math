@@ -1,0 +1,3 @@
+exports.add = functiom(a,b) {
+	returna(a + b)
+}
